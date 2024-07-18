@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\invoicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\invoicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\invoicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\invoicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\models\\holafastfoodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\models\\holafastfoodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\models\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\models\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\service\\foodcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\service\\foodcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\service\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\service\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\service\\billinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\service\\billinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E306EBE-08C5-4869-B295-4AD41EBA6A3B}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\service\\tablefoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\service\\tablefoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|d:\\fpt\\prn212\\project-final\\holafastfood\\holabase\\models\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA490B49-C357-4C3B-8C22-289FB03C4968}|HolaBase\\HolaBase.csproj|solutionrelative:holabase\\models\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\InvoiceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\InvoiceWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\InvoiceWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\InvoiceWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:33:45.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\InvoiceWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\InvoiceWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\InvoiceWindow.xaml",
+              "RelativeToolTip": "WPFApp\\InvoiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T16:32:31.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T03:05:35.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\BillService.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Service\\BillService.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\BillService.cs",
+              "RelativeToolTip": "HolaBase\\Service\\BillService.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAQwHYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:17:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillInfoService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\BillInfoService.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Service\\BillInfoService.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\BillInfoService.cs",
+              "RelativeToolTip": "HolaBase\\Service\\BillInfoService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:17:43.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Service\\AccountService.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\AccountService.cs",
+              "RelativeToolTip": "HolaBase\\Service\\AccountService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwGIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:17:35.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Models\\Account.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\Account.cs",
+              "RelativeToolTip": "HolaBase\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:58:49.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAALEBAAAAAAAAAAA2wOABAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:09:38.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:05:35.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AdminWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\AdminWindow.xaml",
+              "RelativeToolTip": "WPFApp\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T08:35:04.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodCategoryService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\FoodCategoryService.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Service\\FoodCategoryService.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\FoodCategoryService.cs",
+              "RelativeToolTip": "HolaBase\\Service\\FoodCategoryService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:17:52.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\FoodService.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Service\\FoodService.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\FoodService.cs",
+              "RelativeToolTip": "HolaBase\\Service\\FoodService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwFwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:17:54.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T15:39:45.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\appsettings.json",
+              "RelativeToolTip": "WPFApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T03:44:55.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HolaFastFoodContext.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\HolaFastFoodContext.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Models\\HolaFastFoodContext.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\HolaFastFoodContext.cs",
+              "RelativeToolTip": "HolaBase\\Models\\HolaFastFoodContext.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwEcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:09:43.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FoodCategory.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\FoodCategory.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Models\\FoodCategory.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\FoodCategory.cs",
+              "RelativeToolTip": "HolaBase\\Models\\FoodCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:56:21.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Models\\Bill.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\Bill.cs",
+              "RelativeToolTip": "HolaBase\\Models\\Bill.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:15:16.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\WPFApp\\App.xaml.cs",
+              "RelativeToolTip": "WPFApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:49:04.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TableFoodService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\TableFoodService.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Service\\TableFoodService.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Service\\TableFoodService.cs",
+              "RelativeToolTip": "HolaBase\\Service\\TableFoodService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:17:57.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\BillInfo.cs",
+              "RelativeDocumentMoniker": "HolaBase\\Models\\BillInfo.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Project-Final\\HolaFastFood\\HolaBase\\Models\\BillInfo.cs",
+              "RelativeToolTip": "HolaBase\\Models\\BillInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:21:16.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
